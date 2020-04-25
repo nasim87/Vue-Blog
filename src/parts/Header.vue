@@ -44,7 +44,8 @@ export default {
 	margin-right: 5px;
 	text-decoration: none;
 	color:white;
-	font-size: 18px;
+	padding:10px;
+	font-size: 20px;
 	font-weight: bold;
 }
 .nav-item a{
@@ -56,7 +57,7 @@ export default {
 .router-link-active{
 	color:#FFC107;
 }
-img{
+header img{
 	width: 100px;
 	height: 100px;
 	margin:10px;
