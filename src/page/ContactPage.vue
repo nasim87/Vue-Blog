@@ -4,6 +4,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
+					<div class="contact-image">
+						<img src="https://theatermax.com/wp-content/uploads/2016/07/contact-banner.jpg" alt="contact-image" class="img-thumbnail">
+					</div>
 					<div class="card">
 					<div class="card-header">
 						<h3>Contact us At your Time</h3>
@@ -13,14 +16,23 @@
 						
 						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 						</div>
 						</div>
 						<div class="row mt-2">
 							<div class="col-md-4">
 								<div class="card">
+									<div class="card-header">
+										<h3>Contact Card</h3>
+									</div>
 									<div class="card-body">
-										<h4>Email-contact@nasim.com</h4>
-										<h4>Phone: 8801515555555</h4> 
+										<h5>Email-nasimcu94@gmail.com</h5>
+										<h5>Phone: 8801515555555</h5> 
 										<p>Block-B, Road-8, Chandgaon Rasidentioal Area, Chittagong.</p>
 									</div>
 								</div>
@@ -56,5 +68,9 @@ export default {
   }
 };
 </script>
-<style scoped>	
+<style scoped>
+.contact-image img{
+	width: 100%;
+	height: auto;
+}	
 </style>

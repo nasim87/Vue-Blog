@@ -3,7 +3,7 @@
 <!--   	<Header/> -->
 <app-header></app-header>
 <div class="container mt-2">
-    <h2 class="text-center bg-warning p-2">Post from New Yourk Times</h2>
+    <h2 class="text-center bg-warning p-2">Post from News API</h2>
     <div class="row">
     	<div class="col-md-12">
     		<div class="row">
